@@ -1,4 +1,4 @@
-﻿using UIKit;
+﻿using UIKit; using Azure; 
 
 namespace WindowsCalculator.iOS
 {
